@@ -1,4 +1,4 @@
-# questinados
+# Questinados
 
 Se crea una API con estructura de juego similar a Preguntados, en donde se puede implementar lo siguiente:
 
