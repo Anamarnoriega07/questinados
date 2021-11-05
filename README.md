@@ -8,4 +8,9 @@ Se crea una API con estructura de juego similar a Preguntados, en donde se puede
 - Traer todas las categorias existentes, tambien se puede traer una categoria existente por ID.
 
 Deploy (heroku)
-https: //questinados-app-an.herokuapp.com
+
+https://questinados-app-an.herokuapp.com
+
+Postman
+
+https://www.getpostman.com/collections/fc0fd1d94e1253b49d95
