@@ -13,4 +13,4 @@ https://questinados-app-an.herokuapp.com
 
 #### Postman
 
-https://www.getpostman.com/collections/fc0fd1d94e1253b49d95
+https://documenter.getpostman.com/view/16169904/UVC5DSUG
